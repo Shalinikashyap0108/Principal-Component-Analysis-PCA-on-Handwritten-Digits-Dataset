@@ -29,7 +29,7 @@ This project aims to identify which handwritten digits are most differentiated u
 
 **Insights:**
 
-- Easily Distinguishable Digits: Digits such as '0' and '1' form well-separated clusters, indicating high recognizability.
+- Easily Distinguishable Digits: Digits such as '4' and '2', '6' and '9' form well-separated clusters, indicating high recognizability.
 - Hard-to-Distinguish Digits: Overlapping regions for digits like '8' and '3' suggest they are harder to classify, requiring more labeled data for these cases.
 - Variance Analysis: The top principal components capture a significant portion of the dataset's variance, emphasizing PCA's effectiveness in reducing dimensionality.
 
